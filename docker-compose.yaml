@@ -26,7 +26,7 @@ services:
 
   front:
     build:
-      context: cloud-storage-frontend
+      context: netology-diplom-frontend
       dockerfile: Dockerfile
     container_name: FRONT
 
